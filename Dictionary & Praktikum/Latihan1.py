@@ -1,7 +1,7 @@
 list = {
     "Arii" : "081267888", "Dina" : "087677776"  
 }
-print("\nTampilkan kontak Aari :")
+print("\nTampilkan kontak Arii :")
 print(29*"=")
 print(" {0:^2} |".format("Nama"), "Nomor Telepon")      
 print("=============================")
