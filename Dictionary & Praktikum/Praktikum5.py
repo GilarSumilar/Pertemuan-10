@@ -34,7 +34,7 @@ while True:
         nama = input("\nMasukkan Nama  : ")
         if nama in list.keys():
             del list[nama]
-            print("\nData {} berhasil di hapus".format(nama))
+            print("\nData {0} berhasil di hapus".format(nama))
         else:
             print("NAMA {0} TIDAK ADA!".format(nama))
     
