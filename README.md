@@ -130,5 +130,10 @@ for z in list.items():
         print("\n INPUT {} TIDAK ADA!, Silakan pilih [T/U/H/C/L] untuk menjalankan program!".format(c))
 ```
 
+### Hasil program
+![2](Gambar/Gambar2.png)
+
+### Hasil hanya sebagian dari fungsi program
+
 
 
